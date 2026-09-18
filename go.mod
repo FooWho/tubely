@@ -1,4 +1,4 @@
-module github.com/bootdotdev/learn-file-storage-s3-golang-starter
+module github.com/FooWho/tubely
 
 go 1.27.1
 
